@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateuszCode&theme=graywhite&show_icons=true" alt="MateuszCode Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateuszPolarczyk&theme=graywhite&show_icons=true" alt="MateuszCode Stats">
   <br />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
