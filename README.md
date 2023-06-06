@@ -29,7 +29,3 @@ I am a mobile developer with a strong passion for creating intuitive and user-fr
 <br />
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/MateuszPolarczyk)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/MateuszPolarczyk)
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MateuszPolarczyk&theme=graywhite&show_icons=true" alt="MateuszPolarczyk Github Stats">
