@@ -7,7 +7,7 @@ I am a mobile developer with a strong passion for creating intuitive and user-fr
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusz-polarczyk/)](https://www.linkedin.com/in/mateusz-polarczyk/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polarczykdev@gmail.com)](mailto:polarczykdev@gmail.com)
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Tools
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/MateuszPolarczyk)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/MateuszPolarczyk)
